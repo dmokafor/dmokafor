@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dmokafor/dmokafor/blob/main/Portfolio%20Banner.png" alt="Portfolio Banner" width="800"/>
+</p>
+
 <h1>Hi, I'm Daniela! <br/>Finance Professional, Data analyst
 
 <h2>👨‍💻 Projects:</h2>
