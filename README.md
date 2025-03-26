@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/dmokafor/dmokafor/blob/main/Portfolio%20Banner.png" alt="Portfolio Banner" width="800"/>
+  <img src="https://github.com/dmokafor/dmokafor/blob/main/Portfolio%20Banner.png" alt="Portfolio Banner" width="100%"/>
 </p>
 
-<h1>Hi, I'm Daniela! <br/>Finance Professional, Data analyst
+I am a finance professional currently working as a data analyst in the maritime industry.
 
 <h2>👨‍💻 Projects:</h2>
 
