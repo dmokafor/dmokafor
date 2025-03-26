@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dmokafor/dmokafor/blob/main/Portfolio%20Banner.png" alt="Portfolio Banner" width="100%"/>
+  <img src="https://github.com/dmokafor/dmokafor/blob/main/Portfolio_Banner.png" alt="Portfolio Banner" width="100%"/>
 </p>
 
 I am a finance professional currently working as a data analyst in the maritime industry.
