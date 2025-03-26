@@ -2,7 +2,7 @@
   <img src="https://github.com/dmokafor/dmokafor/blob/main/Portfolio_Banner.png" alt="Portfolio Banner" width="100%"/>
 </p>
 
-I am a finance professional currently working as a data analyst in the maritime industry.
+I began my career as a Financial Analyst, where I discovered my passion for data extended beyond spreadsheets and financial models—I loved uncovering insights that drive real-world decisions. Now, as a Data Analyst in the maritime industry, I transform complex datasets into actionable strategies, optimizing operations and empowering data-driven decision-making.
 
 <h2>👨‍💻 Projects:</h2>
 
