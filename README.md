@@ -2,7 +2,7 @@
   <img src="https://github.com/dmokafor/dmokafor/blob/main/Portfolio_Banner.png" alt="Portfolio Banner" width="100%"/>
 </p>
 
-I began my career as a Financial Analyst, where I discovered my passion for data extended beyond spreadsheets and financial models—I loved uncovering insights that drive real-world decisions. Now, as a Data Analyst in the maritime industry, I transform complex datasets into actionable strategies, optimizing operations and empowering data-driven decision-making.
+I began my career as a Financial Analyst, where I discovered that my passion for data extended beyond spreadsheets and financial models—I love connecting the dots and uncovering insights that drive real-world decisions. Now, as a Data Analyst in the maritime industry, I turn complex datasets into strategic insights that drive transformation and operational excellence. 
 
 <h2>👨‍💻 Projects:</h2>
 
