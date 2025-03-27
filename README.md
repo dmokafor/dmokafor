@@ -16,4 +16,4 @@ I began my career as a Financial Analyst, where I discovered that my passion for
 
 [<img align="left" alt="dmokafor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/daniela-morales-okafor-cpa-b838b6110/
+[linkedin]: https://www.linkedin.com/in/danielaokafor/
