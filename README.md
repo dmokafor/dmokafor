@@ -7,9 +7,9 @@ I began my career as a Financial Analyst, where I discovered that my passion for
 
 <h2>💻 Projects:</h2>
 <p align="center">
-  <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/blob/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="30%">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/blob/main/Screenshots/Yard_Performance_Dashboard.png" width="30%">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/blob/main/Screenshots/Yard_Performance_Dashboard.png" width="30%">
+  <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/blob/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="32%">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/blob/main/Screenshots/Yard_Performance_Dashboard.png" width="32%">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/blob/main/Screenshots/Yard_Performance_Dashboard.png" width="32%">
 </p>
 
 <h2>🛠️ Tools</h2>
