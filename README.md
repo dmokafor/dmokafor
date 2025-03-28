@@ -19,7 +19,7 @@ I began my career as a Financial Analyst, where I discovered that my passion for
   <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/blob/main/Screenshots/Yard_Performance_Dashboard.png" 
        width="32%" 
        style="border: 2px solid black;" 
-       alt="Yard Performance Dashboard Screenshot">
+       alt="Yard Performance Dashboard Screenshot">&nbsp;&nbsp;
   <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/blob/main/Screenshots/Yard_Performance_Dashboard.png" 
        width="32%" 
        style="border: 2px solid black;" 
