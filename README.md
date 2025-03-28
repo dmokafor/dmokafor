@@ -6,10 +6,10 @@
 I began my career as a Financial Analyst, where I discovered that my passion for data extended beyond spreadsheets and financial models—I love connecting the dots and uncovering insights that drive real-world decisions. Now, as a Data Analyst in the maritime industry, I turn complex datasets into strategic insights that drive transformation and operational excellence. 
 
 <h2>💻 Projects:</h2>
-<div style="display: flex;">
-  <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/blob/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="256" style="border-radius: 15px;" />
+<div style="display: flex;" align="center">
+  <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/blob/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="486.4" style="border-radius: 15px;" />
   &nbsp;&nbsp;
-  <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/blob/main/Screenshots/Yard_Performance_Dashboard.png" width="256" style="border-radius: 15px;" />
+  <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/blob/main/Screenshots/Yard_Performance_Dashboard.png" width="486.4" style="border-radius: 15px;" />
 </div>
 
 <h2>🛠️ Tools</h2>
