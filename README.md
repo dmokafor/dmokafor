@@ -8,28 +8,22 @@ I began my career as a Financial Analyst, where I discovered that my passion for
 ---
 <h2>💻 Projects:</h2>
 <p align="center">
-  <table width="100%">
+  <table>
     <tr>
-      <td align="center" width="33.3%">
-        <a href="LINK_TO_PROJECT_1">
-          <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
-        </a>
+      <td align="center" width="260">
+        <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="240">
         <br>
-        <b>Vessel Operations Performance</b>
+        <b>Vessel Operations</b>
       </td>
-      <td align="center" width="33.3%">
-        <a href="LINK_TO_PROJECT_2">
-          <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
-        </a>
+      <td align="center" width="260">
+        <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png" width="240">
         <br>
-        <b>Yard Performance Performance</b>
+        <b>Yard Performance</b>
       </td>
-      <td align="center" width="33.3%">
-        <a href="LINK_TO_PROJECT_3">
-          <img src="https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
-        </a>
+      <td align="center" width="260">
+        <img src="https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="240">
         <br>
-        <b>Berthing Window Performance</b>
+        <b>Berthing Window</b>
       </td>
     </tr>
   </table>
