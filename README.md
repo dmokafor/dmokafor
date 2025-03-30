@@ -27,20 +27,6 @@ I began my career as a Financial Analyst, where I discovered that my passion for
         <b>Berthing Window</b>
       </td>
     </tr>
-    <tr>
-      <!-- Row 2 (when adding more images) -->
-      <td align="center" width="33.3%">
-        <img src="https://github.com/path/to/image4.png" width="100%" style="border-radius:8px;">
-        <br>
-        <b>Fourth Dashboard</b>
-      </td>
-      <td align="center" width="33.3%">
-        <!-- Empty cell -->
-      </td>
-      <td align="center" width="33.3%">
-        <!-- Empty cell -->
-      </td>
-    </tr>
   </table>
 </p>
 
