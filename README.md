@@ -7,10 +7,42 @@ I began my career as a Financial Analyst, where I discovered that my passion for
 
 ---
 <h2>💻 Projects:</h2>
-
-| [![Vessel Operations Dashboard](https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png)](https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard) | [![Yard Performance Dashboard](https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png)](https://github.com/dmokafor/Yard_Performance_Dashboard) | [![Berthing Window Dashboard](https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png)](https://github.com/dmokafor/Berthing_Window_Performance) |
-|:---:|:---:|:---:|
-| **Vessel Operations Dashboard** | **Yard Performance Dashboard** | **Berthing Window Dashboard** |
+<p align="center">
+  <table>
+    <tr>
+      <!-- Row 1 -->
+      <td align="center" width="33.3%">
+        <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="100%" style="border-radius:8px;">
+        <br>
+        <b>Vessel Operations</b>
+      </td>
+      <td align="center" width="33.3%">
+        <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png" width="100%" style="border-radius:8px;">
+        <br>
+        <b>Yard Performance</b>
+      </td>
+      <td align="center" width="33.3%">
+        <img src="https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="100%" style="border-radius:8px;">
+        <br>
+        <b>Berthing Window</b>
+      </td>
+    </tr>
+    <tr>
+      <!-- Row 2 (when adding more images) -->
+      <td align="center" width="33.3%">
+        <img src="https://github.com/path/to/image4.png" width="100%" style="border-radius:8px;">
+        <br>
+        <b>Fourth Dashboard</b>
+      </td>
+      <td align="center" width="33.3%">
+        <!-- Empty cell -->
+      </td>
+      <td align="center" width="33.3%">
+        <!-- Empty cell -->
+      </td>
+    </tr>
+  </table>
+</p>
 
 <h2>🛠️ Tools</h2>
 
