@@ -7,19 +7,11 @@ I began my career as a Financial Analyst, where I discovered that my passion for
 
 ---
 <h2>💻 Projects:</h2>
-<p align="left">
-  <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/blob/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" 
-       width="256" 
-       alt="Vessel Operations Performance Dashboard Screenshot">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/blob/main/Screenshots/Yard_Performance_Dashboard.png" 
-       width="256" 
-       alt="Yard Performance Dashboard Screenshot">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/dmokafor/Berthing_Window_Performance/blob/main/Screenshot/Berthing_Window_Performance_Dashboard.png" 
-       width="256" 
-       alt="Yard Performance Dashboard Screenshot">
-</p>
+## Projects
+
+| [![Vessel Operations Dashboard](https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png)](https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard) | [![Yard Performance Dashboard](https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png)](https://github.com/dmokafor/Yard_Performance_Dashboard) | [![Berthing Window Dashboard](https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png)](https://github.com/dmokafor/Berthing_Window_Performance) |
+|:---:|:---:|:---:|
+| **Vessel Operations Dashboard** | **Yard Performance Dashboard** | **Berthing Window Dashboard** |
 
 <h2>🛠️ Tools</h2>
 
