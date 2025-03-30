@@ -8,21 +8,21 @@ I began my career as a Financial Analyst, where I discovered that my passion for
 ---
 <h2>💻 Projects:</h2>
 <p align="center">
-  <table>
+  <table width="100%">
     <tr>
       <!-- Row 1 -->
-      <td align="center" width="33.3%">
-        <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="100%" style="border-radius:8px;">
+      <td align="center" width="33.3%" style="padding: 10px;">
+        <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" style="max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #eee;">
         <br>
         <b>Vessel Operations</b>
       </td>
-      <td align="center" width="33.3%">
-        <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png" width="100%" style="border-radius:8px;">
+      <td align="center" width="33.3%" style="padding: 10px;">
+        <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png" style="max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #eee;">
         <br>
         <b>Yard Performance</b>
       </td>
-      <td align="center" width="33.3%">
-        <img src="https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="100%" style="border-radius:8px;">
+      <td align="center" width="33.3%" style="padding: 10px;">
+        <img src="https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png" style="max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #eee;">
         <br>
         <b>Berthing Window</b>
       </td>
