@@ -7,27 +7,25 @@ I began my career as a Financial Analyst, where I discovered that my passion for
 
 ---
 <h2>💻 Projects:</h2>
-<div style="overflow-x: auto;">
-  <table>
-    <tr>
-      <td align="center" style="min-width: 270px;">
-        <img src="https://raw.githubusercontent.com/dmokafor/Vessel_Operations_Performance_Dashboard/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="270">
-        <br>
-        <b>Vessel Operations Performance</b>
-      </td>
-      <td align="center" style="min-width: 270px;">
-        <img src="https://raw.githubusercontent.com/dmokafor/Yard_Performance_Dashboard/main/Screenshots/Yard_Performance_Dashboard.png" width="270">
-        <br>
-        <b>Yard Performance Dashboard</b>
-      </td>
-      <td align="center" style="min-width: 270px;">
-        <img src="https://raw.githubusercontent.com/dmokafor/Berthing_Window_Performance/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="270">
-        <br>
-        <b>Berthing Window Performance</b>
-      </td>
-    </tr>
-  </table>
-</div>
+<table><tr>
+<!-- Dashboard 1 -->
+<td valign="top" width="270" style="padding-right: 20px;">
+  <img src="https://raw.githubusercontent.com/dmokafor/Vessel_Operations_Performance_Dashboard/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="270">
+  <p align="center"><b>Vessel Operations Performance</b></p>
+</td>
+
+<!-- Dashboard 2 -->
+<td valign="top" width="270" style="padding-right: 20px;">
+  <img src="https://raw.githubusercontent.com/dmokafor/Yard_Performance_Dashboard/main/Screenshots/Yard_Performance_Dashboard.png" width="270">
+  <p align="center"><b>Yard Performance Dashboard</b></p>
+</td>
+
+<!-- Dashboard 3 -->
+<td valign="top" width="270">
+  <img src="https://raw.githubusercontent.com/dmokafor/Berthing_Window_Performance/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="270">
+  <p align="center"><b>Berthing Window Performance</b></p>
+</td>
+</tr></table>
 
 🛠️ Tools</h2>
 
