@@ -15,21 +15,21 @@ I began my career as a Financial Analyst, where I discovered that my passion for
           <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
         </a>
         <br>
-        <b>Vessel Operations Performance</b>
+        <b>Vessel Operations Performance Dashboard</b>
       </td>
       <td align="center" width="33.3%">
         <a href="LINK_TO_PROJECT_2">
           <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
         </a>
         <br>
-        <b>Yard Performance Performance</b>
+        <b>Yard Performance Dashboard</b>
       </td>
       <td align="center" width="33.3%">
         <a href="LINK_TO_PROJECT_3">
           <img src="https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
         </a>
         <br>
-        <b>Berthing Window Performance</b>
+        <b>Berthing Window Performance Dashboard</b>
       </td>
     </tr>
     <tr>
@@ -38,7 +38,14 @@ I began my career as a Financial Analyst, where I discovered that my passion for
           <img src="https://github.com/dmokafor/CHE_Operator_Performance_Dashboard/raw/main/Screenshots/CHE_Operator_Performance_Dashboard.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
         </a>
         <br>
-        <b>Vessel Operations Performance</b>
+        <b>Operator Performance Dashboard</b>
+      </td>
+      <td align="center" width="33.3%">
+        <a href="LINK_TO_PROJECT_5">
+          <img src="https://github.com/dmokafor/Shift_Report/raw/main/Screenshots/Shift_Report.png" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
+        </a>
+        <br>
+        <b>Shift Report</b>
       </td>
     </tr>
   </table>
