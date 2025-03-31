@@ -7,25 +7,33 @@ I began my career as a Financial Analyst, where I discovered that my passion for
 
 ---
 <h2>💻 Projects:</h2>
-<table align="center"><tr>
-  <!-- Dashboard 1 -->
-  <td style="padding: 10px; width: 270px; vertical-align: top;">
-    <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="270">
-    <p style="text-align: center; margin-top: 8px;"><b>Vessel Operations Performance</b></p>
-  </td>
-  
-  <!-- Dashboard 2 -->
-  <td style="padding: 10px; width: 270px; vertical-align: top;">
-    <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png" width="270">
-    <p style="text-align: center; margin-top: 8px;"><b>Yard Performance Dashboard</b></p>
-  </td>
-  
-  <!-- Dashboard 3 -->
-  <td style="padding: 10px; width: 270px; vertical-align: top;">
-    <img src="https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="270">
-    <p style="text-align: center; margin-top: 8px;"><b>Berthing Window Performance</b></p>
-  </td>
-</tr></table>
+<p align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="33.3%">
+        <a href="LINK_TO_PROJECT_1">
+          <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
+        </a>
+        <br>
+        <b>Vessel Operations Performance</b>
+      </td>
+      <td align="center" width="33.3%">
+        <a href="LINK_TO_PROJECT_2">
+          <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
+        </a>
+        <br>
+        <b>Yard Performance Performance</b>
+      </td>
+      <td align="center" width="33.3%">
+        <a href="LINK_TO_PROJECT_3">
+          <img src="https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
+        </a>
+        <br>
+        <b>Berthing Window Performance</b>
+      </td>
+    </tr>
+  </table>
+</p>
 
 🛠️ Tools</h2>
 
