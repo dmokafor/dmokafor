@@ -25,7 +25,7 @@ I began my career as a Financial Analyst, where I discovered that my passion for
         <h5><b>Yard Performance Dashboard</b></h5>
       </td>
       <td align="center" width="25%" valign="top">
-        <a href="LINK_TO_PROJECT_3">
+        <a href="https://github.com/dmokafor/Berthing_Window_Performance/blob/main/README.md">
           <img src="https://github.com/dmokafor/dmokafor/blob/main/project_thumbnails/featured_project_3.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
         </a>
         <br>
