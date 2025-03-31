@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dmokafor/dmokafor/blob/main/Profile_Banner.png" alt="Portfolio Banner" width="100%"/>
+  <img src="https://github.com/dmokafor/dmokafor/raw/main/profile_banner.png" alt="Portfolio Banner" width="100%"/>
 </p>
 
 <h2>👩🏽‍🏫 About Me</h2>
