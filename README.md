@@ -7,24 +7,24 @@ I began my career as a Financial Analyst, where I discovered that my passion for
 
 ---
 <h2>💻 Projects:</h2>
-<table><tr>
-<!-- Dashboard 1 -->
-<td valign="top" width="270" style="padding-right: 20px;">
-  <img src="https://raw.githubusercontent.com/dmokafor/Vessel_Operations_Performance_Dashboard/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="270">
-  <p align="center"><b>Vessel Operations Performance</b></p>
-</td>
-
-<!-- Dashboard 2 -->
-<td valign="top" width="270" style="padding-right: 20px;">
-  <img src="https://raw.githubusercontent.com/dmokafor/Yard_Performance_Dashboard/main/Screenshots/Yard_Performance_Dashboard.png" width="270">
-  <p align="center"><b>Yard Performance Dashboard</b></p>
-</td>
-
-<!-- Dashboard 3 -->
-<td valign="top" width="270">
-  <img src="https://raw.githubusercontent.com/dmokafor/Berthing_Window_Performance/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="270">
-  <p align="center"><b>Berthing Window Performance</b></p>
-</td>
+<table align="center"><tr>
+  <!-- Dashboard 1 -->
+  <td style="padding: 10px; width: 270px; vertical-align: top;">
+    <img src="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/raw/main/Screenshots/Vessel_Operations_Performance_Dashboard.png" width="270">
+    <p style="text-align: center; margin-top: 8px;"><b>Vessel Operations Performance</b></p>
+  </td>
+  
+  <!-- Dashboard 2 -->
+  <td style="padding: 10px; width: 270px; vertical-align: top;">
+    <img src="https://github.com/dmokafor/Yard_Performance_Dashboard/raw/main/Screenshots/Yard_Performance_Dashboard.png" width="270">
+    <p style="text-align: center; margin-top: 8px;"><b>Yard Performance Dashboard</b></p>
+  </td>
+  
+  <!-- Dashboard 3 -->
+  <td style="padding: 10px; width: 270px; vertical-align: top;">
+    <img src="https://github.com/dmokafor/Berthing_Window_Performance/raw/main/Screenshot/Berthing_Window_Performance_Dashboard.png" width="270">
+    <p style="text-align: center; margin-top: 8px;"><b>Berthing Window Performance</b></p>
+  </td>
 </tr></table>
 
 🛠️ Tools</h2>
