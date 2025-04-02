@@ -12,28 +12,28 @@ I began my career as a Financial Analyst, where I discovered that my passion for
     <tr>
       <td align="center" width="25%" valign="top">
         <a href="https://github.com/dmokafor/Vessel_Operations_Performance_Dashboard/blob/main/README.md">
-          <img src="https://github.com/dmokafor/dmokafor/raw/main/project_thumbnails/featured_project_1.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
+          <img src="https://github.com/dmokafor/dmokafor/raw/main/project_thumbnails/featured_project_1.png">
         </a>
         <br>
         <h5><b>Vessel Operations Performance Dashboard</b></h5>
       </td>
       <td align="center" width="25%" valign="top">
         <a href="LINK_TO_PROJECT_2">
-          <img src="https://github.com/dmokafor/dmokafor/blob/main/project_thumbnails/featured_project_2.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
+          <img src="https://github.com/dmokafor/dmokafor/blob/main/project_thumbnails/featured_project_2.png">
         </a>
         <br>
         <h5><b>Yard Performance Dashboard</b></h5>
       </td>
       <td align="center" width="25%" valign="top">
         <a href="https://github.com/dmokafor/Berthing_Window_Performance/blob/main/README.md">
-          <img src="https://github.com/dmokafor/dmokafor/blob/main/project_thumbnails/featured_project_3.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
+          <img src="https://github.com/dmokafor/dmokafor/blob/main/project_thumbnails/featured_project_3.png">
         </a>
         <br>
         <h5><b>Berthing Window Performance Dashboard</b></h5>
       </td>
       <td align="center" width="25%" valign="top">
         <a href="https://github.com/dmokafor/CHE_Operator_Performance_Dashboard/blob/main/README.md">
-          <img src="https://github.com/dmokafor/dmokafor/blob/main/project_thumbnails/featured_project_4.png" width="100%" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
+          <img src="https://github.com/dmokafor/dmokafor/blob/main/project_thumbnails/featured_project_4.png">
         </a>
         <br>
         <h5><b>Operator Performance Dashboard</b></h5>
@@ -42,7 +42,7 @@ I began my career as a Financial Analyst, where I discovered that my passion for
     <tr>
       <td align="center" width="25%" valign="top">
         <a href="https://github.com/dmokafor/Shift_Report/blob/main/README.md">
-          <img src="https://github.com/dmokafor/dmokafor/blob/main/project_thumbnails/featured_project_5.png" style="max-width:100%;border-radius:8px;border:1px solid #eee;">
+          <img src="https://github.com/dmokafor/dmokafor/blob/main/project_thumbnails/featured_project_5.png">
         </a>
         <br>
         <h5><b>Shift Report</b></h5>
