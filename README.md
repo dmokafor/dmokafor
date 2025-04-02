@@ -65,6 +65,6 @@ I began my career as a Financial Analyst, where I discovered that my passion for
 ---
 Connect with me:
 
-[<img align="left" alt="dmokafor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/danielaokafor/
+<a href="https://www.linkedin.com/in/danielaokafor/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" width="22px">
+</a>
