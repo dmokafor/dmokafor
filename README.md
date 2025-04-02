@@ -8,7 +8,7 @@
 
 I began my career as a Financial Analyst, where I discovered that my passion for data extended beyond spreadsheets and financial models—I love connecting the dots and uncovering insights that drive real-world decisions. Now, as a Data Analyst in the maritime industry, I turn complex datasets into strategic insights that drive transformation and operational excellence.
 
-<a href="https://github.com/dmokafor/dmokafor/blob/main/CV_DMOkafor.pdf" target="_blank">
+<a href="https://github.com/dmokafor/dmokafor/raw/main/CV_DMOkafor.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View_My_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV">
 </a>
 
